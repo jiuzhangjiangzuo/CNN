@@ -1,0 +1,2 @@
+https://www.kaggle.com/c/dogs-vs-cats/data
+在Kaggle下载公开的数据图片数据, 在页面手动下载或者run command: kaggle competitions download -c dogs-vs-cats
